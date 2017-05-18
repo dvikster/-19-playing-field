@@ -1,0 +1,14 @@
+#out {
+	width: 300px;
+	height: 300px;
+	border: 5px solid black;
+	position: absolute;
+}
+#block  {
+	position: absolute;
+	bottom: 0;
+	left: 140px;
+	width: 10px;
+	height: 10px;
+	background: black;
+}
